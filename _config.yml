@@ -6,7 +6,8 @@ plugins:
 
 title: The social, the science and the humanities
 description: >- # this means to ignore newlines until "baseurl:"
-  Bridging three cultures of geographic information at GIScience 2020
+  Bridging three cultures of geographic information
+  at GIScience Conference 2020
 minimal_mistakes_skin: default
 search: true
 
