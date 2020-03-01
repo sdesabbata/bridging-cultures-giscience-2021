@@ -12,7 +12,7 @@ Please submit an extended abstract of no more than 1000 words excluding referenc
 ## Organisers
 
 - [Dr Stefano De Sabbata](https://stefanodesabbata.com/), University of Leicester
-- [Dr Andrea Ballatore](hhttps://aballatore.space/), Birkbeck, University of London
+- [Dr Andrea Ballatore](https://aballatore.space/), Birkbeck, University of London
 - [Dr Zoe Gardner](https://www2.le.ac.uk/departments/geography/people/dr-zoe-gardner), University of Leicester
 
 
