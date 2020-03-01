@@ -17,7 +17,7 @@ The organisers and the programme committee of the [GIScience Conference 2020](ht
 
 
 ## Instructions for Authors
-Please submit an extended abstract of no more than 1000 words excluding references (no more than 2 A4 pages) for 15-minute presentations to [a.ballatore@bbk.ac.uk]((mailto:a.ballatore@bbk.ac.uk?subject=[GIScience%202020,%20Bridging%20three%20cultures]%20Abstract%20submission) ) before June 1st, 2020.
+Please submit an extended abstract of no more than 1000 words excluding references (no more than 2 A4 pages) for 15-minute presentations to [a.ballatore@bbk.ac.uk](mailto:a.ballatore@bbk.ac.uk?subject=[GIScience%202020,%20Bridging%20three%20cultures]%20Abstract%20submission) before June 1st, 2020.
 
 
 ## Organisers
