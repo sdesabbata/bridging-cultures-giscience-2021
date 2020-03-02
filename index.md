@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_filter: 0.25
-  overlay_image: /assets/images/dot_maps.jpeg
+  overlay_image: /assets/images/dot_maps.jpg
   caption: "Stefano De Sabbata"
   actions:
     - label: "Submit an abstract"
