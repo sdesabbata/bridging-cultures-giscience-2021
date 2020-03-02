@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_filter: 0.25
   overlay_image: /assets/images/dot_maps.png
-  caption: "Photo credit: oneinchpunch via Shutterstock / University of Leicester"
+  caption: "Stefano De Sabbata"
   actions:
     - label: "Submit an abstract"
       url: "mailto:a.ballatore@bbk.ac.uk?subject=[GIScience%202020,%20Bridging%20three%20cultures]%20Abstract%20submission"
