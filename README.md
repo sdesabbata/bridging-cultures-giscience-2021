@@ -6,7 +6,7 @@ The organisers and the programme committee of the [GIScience Conference 2020](ht
 
 
 ## Instructions for Authors
-Please [submit via EasyChair](https://easychair.org/conferences/?conf=bridgingculturesgisc) an extended abstract of no more than 1000 words excluding references (no more than 2 A4 pages) for 15-minute presentations by Friday 29th May 2020, 5pm (GMT).
+Please [submit via EasyChair](https://easychair.org/conferences/?conf=bridgingculturesgisc) an extended abstract of no more than 1000 words excluding references (no more than 3 A4 pages) for 15-minute presentations by Friday 29th May 2020, 5pm (GMT).
 
 
 ## Organisers
