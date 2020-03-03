@@ -2,7 +2,7 @@
 
 ## Bridging three cultures of geographic information
 
-The organisers and the programme committee of the [GIScience Conference 2020](https://www.giscience.org/) invite authors to submit 1000 words excluding references (no more than 2 A4 pages) for 15-minute presentations at the **The social, the science and the humanities: Bridging three cultures of geographic information** workshop.
+The organisers and the programme committee of the [GIScience Conference 2020](https://www.giscience.org/) invite authors to submit 1000 words excluding references (no more than 3 A4 pages) for 15-minute presentations at the **The social, the science and the humanities: Bridging three cultures of geographic information** workshop.
 
 
 ## Instructions for Authors
