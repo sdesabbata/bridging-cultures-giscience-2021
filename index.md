@@ -30,7 +30,7 @@ Please [submit via EasyChair](https://easychair.org/conferences/?conf=bridgingcu
 
 ## Abstract
 
-**Covid-19 update**: This edition of the workshop will focus on the value of interdisciplinary interactions in this time of crisis. In epidemiology and public health, there is a crucial geospatial dimension to model and manage human interactions. While these crucial efforts tend to rely on quantitative spatial thinking, what is the role of the qualitative social sciences and the humanities in countering the pandemic?
+**Covid-19 update**: This edition of the workshop will focus on the value of interdisciplinary interactions *in this time of crisis*. In epidemiology and public health, there is a crucial geospatial dimension to model and manage human interactions. While these crucial efforts tend to rely on quantitative spatial thinking, *what is the role of the qualitative social sciences and the humanities in countering the pandemic?*
 
 A decade ago, psychologist Jerome Kagan argued that three incompatible research cultures exist in academia: the natural sciences, the social sciences, and the humanities (Kagan, 2009). From its inception, GIScience has been porous, inter-disciplinary and multi-paradigm, mingling with other communities (Blaschke & Merschdorf, 2014). However, most research in GIScience comfortably situates itself with the natural and quantitative social sciences. Interactions with the more qualitative social sciences are limited, and often tense, as the critical GIS debates demonstrate (Sui & DeLyser, 2012). Substantive GIScience work in the humanities is limited to historical GIS (Roberts et al., 2014).
 
