@@ -11,14 +11,16 @@ header:
       url: "https://easychair.org/conferences/?conf=bridgingculturesgisc"
 excerpt: >
   Bridging three cultures of geographic information 
-  at GIScience Conference 2020  
+  at GIScience Conference ~~2020~~ 2021 
 ---
 
-The organisers and the programme committee of the [GIScience Conference 2020](https://www.giscience.org/) invite authors to submit 1000 words excluding references (no more than 3 A4 pages) for 15-minute presentations at the **The social, the science and the humanities: Bridging three cultures of geographic information** workshop.
+**Because of Covid, GIScience 2020 has been postponed to 2021. We will communicate the new deadline for this workshop as soon as possible.**
+
+The organisers and the programme committee of the [GIScience Conference ~~2020~~ 2021](https://www.giscience.org/) invite authors to submit 1000 words excluding references (no more than 3 A4 pages) for 15-minute presentations at the **The social, the science and the humanities: Bridging three cultures of geographic information** workshop.
 
 
 ## Instructions for Authors
-Please [submit via EasyChair](https://easychair.org/conferences/?conf=bridgingculturesgisc) an extended abstract of no more than 1000 words excluding references (no more than 3 A4 pages) for 15-minute presentations by Friday 29th May 2020, 5pm (GMT).
+Please [submit via EasyChair](https://easychair.org/conferences/?conf=bridgingculturesgisc) an extended abstract of no more than 1000 words excluding references (no more than 3 A4 pages) for 15-minute presentations by ~~Friday 29th May 2020, 5pm (GMT)~~ TBC.
 
 
 ## Organisers
