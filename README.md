@@ -1,49 +1,35 @@
 # The social, the science and the humanities
 
-## Bridging three cultures of geographic information
+The organisers, the [Digital Geographies Research Group (DGRG)](http://digitalgeographiesrg.org/) and [GIScience Research Group (GIScRG)](https://quantile.info/giscrg/) of the [Royal Geographical Society](https://www.rgs.org/) invite authors to submit 250-word abstracts for presentation at the **Innovative Digital Geographies: Pushing against quantitative and qualitative boundaries** session at the RGS-IBG Annual International Conference 2021 2-4th September. Please note this will be an **online session**. 
 
-The organisers and the programme committee of the [GIScience Conference 2020](https://www.giscience.org/) invite authors to submit 1000 words excluding references (no more than 3 A4 pages) for 15-minute presentations at the **The social, the science and the humanities: Bridging three cultures of geographic information** workshop.
-
+ 
 
 ## Instructions for Authors
-Please [submit via EasyChair](https://easychair.org/conferences/?conf=bridgingculturesgisc) an extended abstract of no more than 1000 words excluding references (no more than 3 A4 pages) for 15-minute presentations by Friday 29th May 2020, 5pm (GMT).
 
+Please submit abstracts of no more than 250 words (excluding references) for 15 minute presentations to [zg61@leicester.ac.uk](mailto:zg61@leicester.ac.uk?subject=[RGS-IBG AIC 2020, Innovative Digital Geographies] Abstract submission) before Tuesday March 9th, 2021.
+
+ 
 
 ## Organisers
 
-- [Dr Stefano De Sabbata](https://stefanodesabbata.com/), University of Leicester
-- [Dr Andrea Ballatore](https://aballatore.space/), Birkbeck, University of London
 - [Dr Zoe Gardner](https://www2.le.ac.uk/departments/geography/people/dr-zoe-gardner), University of Leicester
+- [Dr Stefano De Sabbata](https://stefanodesabbata.com/), University of Leicester
+- [Dr Katy Bennett](https://www2.le.ac.uk/departments/geography/people/kjb33), University of Leicester
+- [Dr Tess Osborne](https://www.rug.nl/staff/t.osborne/?lang=en), University of Groningen (Netherlands)
 
+ 
 
 ## Abstract
 
-**Covid-19 update**: This edition of the workshop will focus on the value of interdisciplinary interactions *in this time of crisis*. In epidemiology and public health, there is a crucial geospatial dimension to model and manage human interactions. While these crucial efforts tend to rely on quantitative spatial thinking, *what is the role of the qualitative social sciences and the humanities in countering the pandemic?*
+The inflection of the Digital into almost every corner of modern life has been observed through shifts in economic, political and cultural spheres and shaped by a range of objects, practices, processes and materialities (Ash et al. 2019). The ubiquity and pervasiveness of digital technologies and their effects have excited geographers wanting to understand how these new practices and objects produce space, place and social relations. Geography has therefore responded with a focus on the techniques, logics, devices and spaces – both real and virtual -through which these transformations are underwritten.
 
-A decade ago, psychologist Jerome Kagan argued that three incompatible research cultures exist in academia: the natural sciences, the social sciences, and the humanities (Kagan, 2009). From its inception, GIScience has been porous, inter-disciplinary and multi-paradigm, mingling with other communities (Blaschke & Merschdorf, 2014). However, most research in GIScience comfortably situates itself with the natural and quantitative social sciences. Interactions with the more qualitative social sciences are limited, and often tense, as the critical GIS debates demonstrate (Sui & DeLyser, 2012). Substantive GIScience work in the humanities is limited to historical GIS (Roberts et al., 2014).
+The research methodologies through which these transformations have been explored have been diverse: qualitative approaches have been prevalent within digital geographies; while quantitative analysis of social media has been the main focus of studies in geographic information science. However, there is an appetite amongst scholars for more collaborative (and interdisciplinary) working across the quantitative and qualitative realms to understand the potential complementary value of synchronised methodological approaches (Sui & DeLyser 2012).
 
-This workshop aims to provide the opportunity to explore, showcase and engage with research practices and projects that link GIScience to the social sciences and the humanities. The discussion will be articulated along three core concerns. (1) In what ways are GIScientists working across qualitative and quantitative realms with social scientists, and humanists? What are the scientific, epistemic, ethical, and practical implications of these interactions? Is GIScience a meta-science that can reduce friction between different disciplines? (2) How can GIScientists engage more effectively with interdisciplinary teams that involve social scientists and humanists? What are promising strategies to conduct not only "respectable", but high-impact GIScience research in the context of those collaborations? (3) How should GIScience position itself in the broader academic landscape with respect to non-STEM disciplines, not just in scientific terms, but also regarding funding and publication strategy?
+This session aims to explore, showcase and critically engage with state-of-the-art mixed-methods in digital geographies. It has three core concerns. Firstly, in what ways are geographers working across qualitative and quantitative realms and to what effect? Secondly, what does being creative and novel involve? Finally, what kind of knowledge about space, place and social relations are digital worlds and innovative research practices generating?
 
-We encourage submissions from researchers who engage with or have an interest in disciplines such as human geography, history, economics, linguistics, archeology, public health, sociology, media studies, and political science. More specifically, the topics include (but are not limited to):
+ 
 
-- GIScience for social sciences
-- Spatial digital humanities
-- Spatial social media and social research
-- Information geography and digital geography
-- Spatial media studies, cultural analytics 
-- Information studies, science & technology studies
-- Qualitative GIS and critical GIS
+## References
 
-
-
-
-### References
-
-ABrown, G., Strickland-Munro, J., Kobryn, H., & Moore, S. A. (2017). Mixed methods participatory GIS: An evaluation of the validity of qualitative and quantitative mapping methods. Applied geography, 79, 153-166.
-
-Roberts, L., Thevenin, T., et al. (2014). Toward spatial humanities: Historical GIS and spatial history.  Bloomington, IN: Indiana University Press.
-
-Kagan, J. (2009). The three cultures: Natural sciences, social sciences, and the humanities in the 21st century. Cambridge, UK: Cambridge University Press.
-
-Sui, D., & DeLyser, D. (2012). Crossing the qualitative-quantitative chasm I: Hybrid geographies, the spatial turn, and volunteered geographic information (VGI). Progress in Human Geography, 36(1), 111-124.
-
+- Ash, K., R. Kitchin and A. Leszczynski, Eds. (2019). Digital Geographies. London, Sage.
+- Sui, D., & DeLyser, D. (2012). Crossing the qualitative-quantitative chasm I: Hybrid geographies, the spatial turn, and volunteered geographic information (VGI). Progress in Human Geography, 36(1), 111-124.
