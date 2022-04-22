@@ -11,7 +11,7 @@ header:
       url: "https://easychair.org/conferences/?conf=bridgingculturesgisc"
 excerpt: >
   Bridging three cultures of geographic information 
-  at GIScience Conference 2021 
+  at the RGS-IBG AIC 2021 
 ---
 
 
