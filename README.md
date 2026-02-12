@@ -13,7 +13,7 @@ Please submit abstracts of no more than 250 words (excluding references) for 15 
 ## Organisers
 
 - [Dr Zoe Gardner](https://www2.le.ac.uk/departments/geography/people/dr-zoe-gardner), University of Leicester
-- [Dr Stefano De Sabbata](https://stefanodesabbata.com/), University of Leicester
+- [Dr Stef De Sabbata](https://sdesabbata.github.io/), University of Leicester
 - [Dr Katy Bennett](https://www2.le.ac.uk/departments/geography/people/kjb33), University of Leicester
 - [Dr Tess Osborne](https://www.rug.nl/staff/t.osborne/?lang=en), University of Groningen (Netherlands)
 

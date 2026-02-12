@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_filter: 0.25
   overlay_image: /assets/images/dot_maps.jpg
-  caption: "Stefano De Sabbata"
+  caption: "Stef De Sabbata"
   actions:
     - label: "Submit an abstract"
       url: "https://easychair.org/conferences/?conf=bridgingculturesgisc"
@@ -28,7 +28,7 @@ Please submit abstracts of no more than 250 words (excluding references) for 15 
 ## Organisers
 
 - [Dr Zoe Gardner](https://www2.le.ac.uk/departments/geography/people/dr-zoe-gardner), University of Leicester
-- [Dr Stefano De Sabbata](https://stefanodesabbata.com/), University of Leicester
+- [Dr Stef De Sabbata](https://sdesabbata.github.io/), University of Leicester
 - [Dr Katy Bennett](https://www2.le.ac.uk/departments/geography/people/kjb33), University of Leicester
 - [Dr Tess Osborne](https://www.rug.nl/staff/t.osborne/?lang=en), University of Groningen (Netherlands)
 
